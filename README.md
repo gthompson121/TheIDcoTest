@@ -1,11 +1,12 @@
 # TheIDcoTest
 
-Dependencies
-  Newtonsoft.Json
-  Microsoft.Extensions.DependencyInjection
-  xunit
-  Moq
+**Dependencies**
 
-Assumptions
+1. Newtonsoft.Json
+2. Microsoft.Extensions.DependencyInjection
+3. xunit
+4. Moq
 
-"Amount" value is in pence.
+**Assumptions**
+
+1. "Amount" value is in pence.
