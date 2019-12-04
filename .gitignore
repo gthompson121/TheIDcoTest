@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/TheIDcoTest/.vs/TheIDcoTest
+/TheIDcoTest/TheIDcoTest.BalanceCalculator/bin/Debug/netcoreapp2.1
+/TheIDcoTest/TheIDcoTest.BalanceCalculator/obj
+/TheIDcoTest/TheIDcoTest.BalanceCalculator.UnitTests/bin/Debug/netcoreapp2.1
+/TheIDcoTest/TheIDcoTest.BalanceCalculator.UnitTests/obj
